@@ -1,0 +1,27 @@
+#container {
+  width: 850px;
+  height: 500px;
+  
+}
+#title {
+  margin-top: 50px;
+  text-align: center;
+}
+.tick{
+  
+}
+.bar:hover {
+  fill: yellow;
+}
+
+.bar{
+  fill: navy;
+}
+
+#chart {
+  background-color: white;
+  padding-top: 50px;
+}
+body { 
+  background-color: grey;
+}
